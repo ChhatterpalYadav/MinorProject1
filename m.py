@@ -16,7 +16,7 @@ def generate():
     
     print(prompt)
     
-    openai.api_key = "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"
+    openai.api_key = ""
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=[

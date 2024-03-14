@@ -1,7 +1,7 @@
 import os
 import openai # pip install openai
 
-openai.api_key = "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"
+openai.api_key = ""
 response = openai.ChatCompletion.create(
     model="gpt-3.5-turbo",
     messages=[
