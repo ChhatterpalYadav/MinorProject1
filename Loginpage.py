@@ -48,7 +48,7 @@ def login():
     global password_verify
  
     username_verify = StringVar()
-    password_verify = StringVar()
+    password_verify = StringVar()  
  
     global username_login_entry
     global password_login_entry
@@ -123,7 +123,7 @@ def login_sucess():
     
 
 def signLanguage():
-    os.system('python inference_classifier.py')
+    os.system('python app.py')
 
 def airBrush():
     os.system('python virtual.py')
@@ -132,10 +132,10 @@ def eyeLidControl():
     os.system('python eyelidcontrol.py')
 
 def eyeblinkControl():
-    os.system('python SpaceButton.py')
+    os.system('python dinogameblink.py')
 
 def projectIdea():
-    os.system('python m.py')
+    os.system('python ProjectIdea.py')
 
 
 def password_not_recognised():

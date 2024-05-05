@@ -16,8 +16,9 @@ while True:
             pyautogui.keyDown('space')
 
             # Add a delay for keypress duration (adjust as needed)
-            time.sleep(0.1)  # Adjust the duration of the keypress
+            time.sleep(0.5)  # Adjust the duration of the keypress
 
             # Simulate key up
             pyautogui.keyUp('space')
      
+ 
