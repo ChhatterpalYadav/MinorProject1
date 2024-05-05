@@ -2,4 +2,4 @@
 to build ai app using open cv and python libraries
 
 
-[![Watch the video](https://youtu.be/c7uSurB9qAg)])
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/c7uSurB9qAg/0.jpg)](https://www.youtube.com/watch?v=c7uSurB9qAg)
